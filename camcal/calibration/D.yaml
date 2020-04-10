@@ -1,0 +1,109 @@
+D0: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - &id001 !!python/name:numpy.ndarray ''
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 1
+  - &id002 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - 0
+    - 1
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    FPZeGWdTrr8=
+D1: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 1
+  - *id002
+  - false
+  - !!binary |
+    6nhmoo39wD8=
+D2: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 1
+  - *id002
+  - false
+  - !!binary |
+    LzMYBdQf1L8=
+D3: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 1
+  - *id002
+  - false
+  - !!binary |
+    VzLa73a+zT8=
+K00: !!python/object/apply:numpy.core.multiarray.scalar
+- *id002
+- !!binary |
+  49jx0Q2Cc0A=
+K01: !!python/object/apply:numpy.core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAAAAA=
+K02: !!python/object/apply:numpy.core.multiarray.scalar
+- *id002
+- !!binary |
+  +MyMTMwbc0A=
+K10: !!python/object/apply:numpy.core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAAAAA=
+K11: !!python/object/apply:numpy.core.multiarray.scalar
+- *id002
+- !!binary |
+  BJPvbduBc0A=
+K12: !!python/object/apply:numpy.core.multiarray.scalar
+- *id002
+- !!binary |
+  DH+qecjsZUA=
+K20: !!python/object/apply:numpy.core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAAAAA=
+K21: !!python/object/apply:numpy.core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAAAAA=
+K22: !!python/object/apply:numpy.core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAA8D8=
